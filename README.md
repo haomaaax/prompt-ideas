@@ -7,3 +7,19 @@ Tried some structured prompts and it's working damn gooooood.
 So I would like to share some of my insight and collect some prompt keywords as record.
 
 Enjoy your generative art journey!
+
+
+
+
+# Intro
+
+I started with a well-structured prompt formula from Jeffrey:
+
+```
+Art Medium + The actual things you want in the image + Art Styles (could be an artist or an actual style like Renaissance) + Modifications (extra details on how the image should look)
+```
+
+So we need to describe our thoughts about our image in a very precise way which AI can draw out the picture for you.
+
+
+# Example
