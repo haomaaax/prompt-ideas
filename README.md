@@ -23,3 +23,10 @@ So we need to describe our thoughts about our image in a very precise way which 
 
 
 # Example
+
+I want to show female elf and nature landscape filled with warm sunlight.
+The key here is to describe as detail as possible.
+
+```
+illustration of female elf portrait by victo ngai, nature landscape and vegetation, spiritual scene, god beam, epic scene, highly detailed, fantastical, vibrant red tinted colors, uhd
+```
