@@ -37,3 +37,9 @@ illustration of female elf portrait by victo ngai, nature landscape and vegetati
 ```
 illustration of room with a nature dawn view by Ghibli studio, nature landscape and sunlight outside the window, girl in hoodie is reading, epic scene, highly detailed, vibrant warm colors, uhd
 ```
+
+3. I want to show an astronaut with space helmet with beautiful galaxy view.
+
+```
+Illustration of an astronaut bust portrait by john berkey, space helmet with total reflection of beautiful galaxy view, highly detailed helmet, fantastical, epic scene, vibrant galaxy colors, 4k
+```
