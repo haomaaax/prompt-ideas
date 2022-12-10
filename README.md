@@ -43,3 +43,8 @@ illustration of room with a nature dawn view by Ghibli studio, nature landscape 
 ```
 Illustration of an astronaut bust portrait by john berkey, space helmet with total reflection of beautiful galaxy view, highly detailed helmet, fantastical, epic scene, vibrant galaxy colors, 4k
 ```
+
+4. I want to show a back view of girl with nature background including trees and mountains
+```
+Illustration of an girl back view portrait by Miyazaki Hayao, exploring light portal in nature forest, spectacular mountain view, highly detailed, fantastical, epic scene, vibrant colors, 4k
+```
