@@ -8,7 +8,7 @@ So I would like to share some of my insight and collect some prompt keywords as 
 
 Enjoy your generative art journey!
 
-
+GO
 
 
 # Intro
